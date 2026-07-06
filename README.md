@@ -180,16 +180,16 @@ Contributions, ideas, and suggestions are welcome.
 
 # 📬 Contact
 
-📧 Email: your-email@example.com
+📧 Email: mskasaudhan21@gmail.com
 
 💼 LinkedIn:
-https://linkedin.com/in/your-profile
+https://linkedin.com/in/Manish80560
 
 🐙 GitHub:
 https://github.com/Manish80560
 
 🌐 Portfolio:
-https://your-portfolio-link.com
+https://manish80560.github.io/Manish-Kasaudhan-Portfolio/
 
 ---
 
